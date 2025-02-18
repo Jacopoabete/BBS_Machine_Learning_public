@@ -1,0 +1,3 @@
+scoring,model,best_params,accuracy,precision_macro,recall_macro,f1_macro
+roc_auc,Random forest       ,"{'max_depth': 6, 'n_estimators': 30}",0.879734219269103,0.8532610302815236,0.6558160996002166,0.699155907049275
+roc_auc,Random forest       ,"{'max_depth': 6, 'n_estimators': 30}",0.879734219269103,0.8532610302815236,0.6558160996002166,0.699155907049275
